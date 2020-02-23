@@ -1,2 +1,2 @@
-# Employee-Tracker-App
-Employee Tracker CLI
+# Employee_Tracker
+CLI Application interacting with SQL Database
